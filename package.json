@@ -13,7 +13,8 @@
     "dayjs": "^1.11.21",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
-    "react-loading-indicators": "^1.0.1"
+    "react-loading-indicators": "^1.0.1",
+    "supersimpledev": "^8.6.4"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
